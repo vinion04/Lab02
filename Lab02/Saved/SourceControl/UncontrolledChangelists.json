@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/ThirdPerson/Blueprints/BP_LightTrigger.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YN/O786P9PMJSAXXGG0Q8SNUM.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Q6/SZLYU29N8IA29XYF8KCQF2.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RE/YWSI6V4L6SOHKOBZFDSUYL.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MJ/DVYYIJDIV4W7RJJ0L6O06V.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0I/MTD0YP3LY3GHIP12XUP77B.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/UG/CYV1XP8RPVZGEPQS9U6GQY.uasset",
+				"C:/Users/hgl6/Documents/GitHub/Lab02/Lab02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/XW/7Y1JNJJIYP77WN4K1OFQPT.uasset"
+			]
+		}
+	]
+}
